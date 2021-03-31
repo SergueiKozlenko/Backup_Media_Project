@@ -1,0 +1,4 @@
+requests~=2.25.1
+tqdm~=4.56.0
+progress~=1.5
+httplib2~=0.19.0
